@@ -1,0 +1,5 @@
+#div > * { display: block; }
+#soft-skills > * { display: block; }
+li::marker {
+    font-size: 1.5rem;
+}
